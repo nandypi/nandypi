@@ -1,6 +1,6 @@
 Hi, I'm Nandan 👋
 
-Application Developer Intern at NPTEL
+Application Developer
 BS in Data Science and Applications, IIT Madras
 
 Tech:
