@@ -1,16 +1,20 @@
-## Hi there 👋
+Hi, I'm Nandan 👋
 
-<!--
-**nandypi/nandypi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Application Developer Intern at NPTEL
+BS in Data Science and Applications, IIT Madras
 
-Here are some ideas to get you started:
+Tech:
+• Python
+• Django
+• PostgreSQL
+• Flask
+• HTML/CSS/JavaScript
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently:
+• Building internal tools at NPTEL
+• Mentoring students in IIT Madras bootcamps
+
+Featured Projects:
+• Feedback Report Generator
+• QuizEvaluator4-IITM_BS
+• ...
