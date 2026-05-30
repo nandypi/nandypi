@@ -1,6 +1,7 @@
 Hi, I'm Nandan 👋
 
 Application Developer
+
 BS in Data Science and Applications, IIT Madras
 
 Tech:
